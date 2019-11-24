@@ -3,14 +3,14 @@
 This guide outlines the steps to document when first planning out an app. There are 9 areas to consider and fill out as a starting point. More areas may come out of it as you work through the process, which is great
 
 1. App overview
-2. App features
-3. Domain security
-4. Domain rules
-5. Logging
-6. Services / Communication
-7. Data Models
-8. Feature components
-9. Shared functionality
+1. App features
+1. Domain security
+1. Domain rules
+1. Logging
+1. Services / Communication
+1. Data Models
+1. Feature components
+1. Shared functionality
 
 It also includes some links with official best practices, which are mostly quick reads
 
@@ -50,23 +50,16 @@ Are we using 3rd party products? Do we need a wrapper around the 3rd party produ
 ## Official (and unofficial) guides
 Follow guides but note things that will be tweaked
 
-###Angular
-Style best practices
+#### Angular
+[Style best practices](https://angular.io/guide/styleguide)
 
-https://angular.io/guide/styleguide
+#### C#
+[Coding conventions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
 
-C#
-Coding conventions
-https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions
-ASP.NET
-What and what not to do
-https://docs.microsoft.com/en-us/aspnet/aspnet/overview/web-development-best-practices/what-not-to-do-in-aspnet-and-what-to-do-instead
+#### ASP.NET
+[What and what not to do](https://docs.microsoft.com/en-us/aspnet/aspnet/overview/web-development-best-practices/what-not-to-do-in-aspnet-and-what-to-do-instead)
+[Performance best practices](https://docs.microsoft.com/en-us/aspnet/core/performance/performance-best-practices?view=aspnetcore-3.0)
 
-Performance best practices
-https://docs.microsoft.com/en-us/aspnet/core/performance/performance-best-practices?view=aspnetcore-3.0
-.NET
-Guides on microservices, DevOps, modernizing, Azure CloudApps, ASP.NET web apps, mobile apps, and UWP desktop apps
-https://dotnet.microsoft.com/learn/dotnet/architecture-guides
-
-(Unofficial) Best Practices As Specified By .NET Design Guidelines
-https://www.c-sharpcorner.com/blogs/best-practices-as-specified-by-net-design-guidelines
+#### .NET
+[Guides on microservices, DevOps, modernizing, Azure CloudApps, ASP.NET web apps, mobile apps, and UWP desktop apps](https://dotnet.microsoft.com/learn/dotnet/architecture-guides)
+[(Unofficial) Best Practices As Specified By .NET Design Guidelines](https://www.c-sharpcorner.com/blogs/best-practices-as-specified-by-net-design-guidelines)
