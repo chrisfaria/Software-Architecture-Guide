@@ -51,19 +51,15 @@ Are we using 3rd party products? Do we need a wrapper around the 3rd party produ
 Follow guides but note things that will be tweaked
 
 Angular
-
 * [Style best practices](https://angular.io/guide/styleguide)
 
 C#
-
 * [Coding conventions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
 
 ASP.NET
-
 * [What and what not to do](https://docs.microsoft.com/en-us/aspnet/aspnet/overview/web-development-best-practices/what-not-to-do-in-aspnet-and-what-to-do-instead)
 * [Performance best practices](https://docs.microsoft.com/en-us/aspnet/core/performance/performance-best-practices?view=aspnetcore-3.0)
 
 .NET
-
 * [Guides on microservices, DevOps, modernizing, Azure CloudApps, ASP.NET web apps, mobile apps, and UWP desktop apps](https://dotnet.microsoft.com/learn/dotnet/architecture-guides)
 * [(Unofficial) Best Practices As Specified By .NET Design Guidelines](https://www.c-sharpcorner.com/blogs/best-practices-as-specified-by-net-design-guidelines)
