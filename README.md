@@ -32,17 +32,17 @@ What is done when an error is encountered? Write to a cloud option, API, or loca
 #### 6 Services/Communication
 How will this app talk to other pieces? HTTP? Web Sockets? REST? JSON/XML/MessagePack? Other services?
 
-(Angular) HTTP Interceptor?
+_(Angular) HTTP Interceptor?_
 
 #### 7 Data Models
 What data are we expecting? Do we need subsets of data sent to us? What data do we need to send? What data is being viewed? 
 
-(Angular) Use classes or interfaces? If you need functions within then use classes else use interfaces as they don’t get bundled up in the app when built reducing size
+_(Angular) Use classes or interfaces? If you need functions within then use classes else use interfaces as they don’t get bundled up in the app when built reducing size_
 
 #### 8 Feature Components
 What are our top level components and how will be structure them? How to organize in the code? Draw out layout	
 
-(Angular) How will we communicate between components? What lazy loads? Visual structure
+_(Angular) How will we communicate between components? What lazy loads? Visual structure_
 
 #### 9 Shared Functionality
 Are we using 3rd party products? Do we need a wrapper around the 3rd party products so that we can easily replace them with another down the road? Is the shared functionality shareable in the 1 app or can it also be shared with other apps?
