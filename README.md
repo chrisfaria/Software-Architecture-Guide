@@ -49,9 +49,12 @@ Are we using 3rd party products? Do we need a wrapper around the 3rd party produ
 
 ## Official (and unofficial) guides
 Follow guides but note things that will be tweaked
-Angular
+
+####Angular
 Style best practices
+
 https://angular.io/guide/styleguide
+
 C#
 Coding conventions
 https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions
