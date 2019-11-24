@@ -1,5 +1,5 @@
 # Software Architecture Considerations
-## What the guide is about
+## What the Guide is About
 This guide outlines the steps to document when first planning out an app. There are 9 areas to consider and fill out as a starting point. More areas may come out of it as you work through the process, which is great
 
 1. App overview
@@ -47,7 +47,7 @@ _(Angular) How will we communicate between components? What lazy loads? Visual s
 #### 9 Shared Functionality
 Are we using 3rd party products? Do we need a wrapper around the 3rd party products so that we can easily replace them with another down the road? Is the shared functionality shareable in the 1 app or can it also be shared with other apps?
 
-## Official (and unofficial) guides
+## Official (and Unofficial) Guides
 Follow guides but note things that will be tweaked
 
 Angular
